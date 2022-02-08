@@ -1,0 +1,53 @@
+{
+  "employee": [
+    {
+      "name": "Rajnish kumar",
+      "email": "rajnishkumar320883@gmail.com",
+      "number": "84386465674",
+      "dob": "2022-02-01",
+      "gender": "male",
+      "d0b": "2022-02-05",
+      "id": 2
+    },
+    {
+      "name": "Raj",
+      "email": "rajjo@321gmail.com",
+      "number": "9051265208",
+      "d0b": "2022-02-04",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "sumit",
+      "email": "sumit@4321@gmail.com",
+      "number": "886546534",
+      "d0b": "2022-01-06",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "rishav",
+      "email": "rishav23@gmail.com",
+      "number": "67892345",
+      "d0b": "2022-02-01",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "name": "rohan",
+      "email": "rohan@gmail.com",
+      "number": "87236518",
+      "d0b": "2022-02-02",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "name": "shyam",
+      "email": "shyam2543212gmail.com",
+      "number": "34567889932",
+      "d0b": "2022-02-07",
+      "gender": "male",
+      "id": 7
+    }
+  ]
+}

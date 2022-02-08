@@ -1,0 +1,32 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.navbar{
+width:100%;
+height: 80px;
+background-color:skyblue;
+}
+.navbar-title{
+  margin-left:5%;
+  padding:1%;
+}
+.addemployees{
+  margin-left:80%;
+  margin-top:-45px;
+}
+.forms{
+  text-align:center;
+}
+.delete{
+background-color:red;
+ padding:20px;
+}
+.edit{
+  background-color:blueviolet;
+   padding:20px;
+  }
+  .update{
+    margin-left:180px;
+    
+  }
